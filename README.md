@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @farid-izi-mid
-- 👀 I’m interested in ... Front end developing
-- 🌱 I’m currently learning ... VueJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+всем привет
 
 <!---
 farid-izi-mid/farid-izi-mid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
