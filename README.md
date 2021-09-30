@@ -17,6 +17,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farid-izi-mid&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farid-izi-mid&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farid-izi-mid&theme=dark" alt="farid-izi-mid" /></p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farid-izi-mid&show_icons=true&locale=en&layout=compact)
 All" alt="farid-izi-mid" /></p>
