@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **vue**
 
-- 📫 How to reach me **faridun.pacan@mail.ru**
+- 📫 How to reach me **am_i_farid@mail.ru**
 
 
 <h3 align="left">Languages and Tools:</h3>
