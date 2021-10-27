@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farid-izi-mid&theme=onedark" alt="farid-izi-mid" /></a> </p>
 
-- 🌱 I’m currently learning **TS**
+- 🌱 I’m currently learning **Vue 3 composition API + TS **
 
 - 💬 Ask me about **vue**
 
