@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue 3 composition API + TS **
 
-- 💬 Ask me about **vue**
+- 💬 Ask me about **vue, JS and frontend at all**
 
 - 📫 How to reach me **am_i_farid@mail.ru**
 
