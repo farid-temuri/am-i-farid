@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farid</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farid-izi-mid&theme=onedark" alt="farid-izi-mid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=am-i-farid&theme=onedark" alt="farid-izi-mid" /></a> </p>
 
 - 🌱 I’m currently learning **Vue 3 composition API + TS **
 
-- 💬 Ask me about **vue, JS and frontend at all**
+- 💬 Ask me about **vue, JS(TS) and frontend at all**
 
 - 📫 How to reach me **am_i_farid@mail.ru**
 
